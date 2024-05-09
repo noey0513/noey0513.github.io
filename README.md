@@ -10,7 +10,7 @@ Participating in Industry-University Cooperation Project from this April : _Nine
 >  __EDUCATION__
 > > + Graduated Korean Minjok Leadership Academy in 2023
 > > + Majoring Computing and Informatics as an undergraduate in Sungyunkwan University from 2023
-> > >   ##### Currently taking courses : _Computer Architecture_, _System Programming_, _Problem Solving_, and _Open Source Software Practice_
+> > >   Currently taking courses : _Computer Architecture_, _System Programming_, _Problem Solving_, and _Open Source Software Practice_
 
 >  __SKILLS__
 > > + C, C++, JAVA, Python
