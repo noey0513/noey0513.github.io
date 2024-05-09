@@ -1,0 +1,8 @@
+name: Trial
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉NEW UPDATE is COMING🎉"
+      - run: echo "update's new home is, ${{ github.repository }}."
