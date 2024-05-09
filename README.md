@@ -1,6 +1,6 @@
 # Hi I'm _Lee Da-Yeon_
 _20 years old, female, Korean_
-![Alt text](./insta_profile.png)
+<img src="./insta_profile.png" width = "150px" height = "250px" title="myprofile pic"/>
 
 > __EDUCATIONAL BACKGROUND__
 > > Graduated Korean Minjok Leadership Academy in 2023
